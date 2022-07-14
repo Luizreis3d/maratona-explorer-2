@@ -7,17 +7,17 @@
 
 O layout da Rocket Links foi contruído no Figma pelo Jonas Milan, e o projeto do website foi desenvolvido pelo Mayk Brito durante as lives da Maratona Explorer 2.0 pelo canal do YouTube da Rocketseat.
 
-## 🚀 Tecnologias utilizadas:
+## 🚀 Tecnologias utilizadas.
 
 -  HTML
 -  CSS
 
-## 📔 Conhecimentos abordados nas aulas (Estou atualizando as informações ainda):
+## 📔 Conhecimentos abordados nas aulas.
+
+(Estou atualizando as informações ainda)
 
 - [x]  Uso semântico do HTML;
 
-## ☕ Resultado do projeto:
-
-<a href="https://luizreis3d.github.io/maratona-explorer-2/" target="_blank">GitHub Pages</a>
+## ☕ Resultado do projeto no [GitHub Pages](https://luizreis3d.github.io/maratona-explorer-2/).
 
 Para uma melhor prática de estudos, modifiquei as fontes e cores utilizadas nas aulas e adicionei um gradiente no background, tendo o café em mente como tema.
