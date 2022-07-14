@@ -16,6 +16,6 @@ O layout da Rocket Links foi contruído no Figma pelo Jonas Milan, e o projeto d
 
 - [x]  Uso semântico do HTML;
 
-## ☕ Resultado do projeto no [GitHub Pages](https://luizreis3d.github.io/maratona-explorer-2/).
+## ☕ Resultado do projeto no <a href="https://luizreis3d.github.io/maratona-explorer-2/" target="_blank">GitHub Pages</a>.
 
 Para uma melhor prática de estudos, modifiquei as fontes e cores utilizadas nas aulas e adicionei um gradiente no background, tendo o café em mente como tema.
