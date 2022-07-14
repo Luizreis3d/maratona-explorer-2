@@ -12,10 +12,9 @@ O layout da Rocket Links foi contruído no Figma pelo Jonas Milan, e o projeto d
 -  HTML
 -  CSS
 
-## 📔 Conhecimentos abordados nas aulas:
+## 📔 Conhecimentos abordados nas aulas (Estou atualizando as informações ainda):
 
 - [x]  Uso semântico do HTML;
-- [x]  Uso de variáveis globais no `:root`;
 
 ## ☕ Resultado do projeto:
 
